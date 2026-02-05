@@ -12,7 +12,7 @@ Download from Kaggle:
  Dataset (Local Files):
 
 - [orders.csv](data/orders.csv)
-- [order_details.csv](data/order_details.csv)
+- [order_details.csv](order_details.csv)
 - [pizzas.csv](data/pizzas.csv)
 - [pizza_types.csv](data/pizza_types.csv)
 ---
@@ -121,7 +121,7 @@ LIMIT 3;
 1. Download dataset from Kaggle
 2. Import CSV files into MySQL
 3. Create tables
-4. Execute queries from `analysis.sql`
+4. Execute queries from `Sql_project.sql`
 
 ---
 
